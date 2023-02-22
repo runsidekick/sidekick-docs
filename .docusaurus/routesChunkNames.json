@@ -1,420 +1,467 @@
 {
-  "/markdown-page-4e3": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-b24": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "31e747d1"
-    },
-    "content": "393be207"
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
   },
-  "/-bab": {
-    "__comp": "1be78505",
+  "/__docusaurus/debug/config-08b": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "725ade13"
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
+  },
+  "/__docusaurus/debug/content-b57": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-204-a6f"
     },
-    "versionMetadata": "935f2afb"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-9e2": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
+  },
+  "/__docusaurus/debug/metadata-c81": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
+  },
+  "/__docusaurus/debug/registry-670": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
+  },
+  "/__docusaurus/debug/routes-8f5": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-204-a6f"
+    }
+  },
+  "/markdown-page-4e3": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-31-e-dea"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-417": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---725-f93"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-206": {
-    "__comp": "17896441",
-    "content": "f8409a7e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---f-84-df3"
   },
   "/agents/java/-761": {
-    "__comp": "17896441",
-    "content": "062f6695"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-java-062-22c"
   },
   "/agents/java/configuration-24c": {
-    "__comp": "17896441",
-    "content": "04678a10"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-java-configuration-046-d55"
   },
   "/agents/java/source-bundling-301": {
-    "__comp": "17896441",
-    "content": "1941ef24"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-java-source-bundling-194-1df"
   },
   "/agents/node.js/-eb8": {
-    "__comp": "17896441",
-    "content": "5eacf3fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-5-ea-ab4"
   },
   "/agents/node.js/data-redaction-691": {
-    "__comp": "17896441",
-    "content": "7585a200"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-data-redaction-758-abf"
   },
   "/agents/node.js/error-stack-collection-7c3": {
-    "__comp": "17896441",
-    "content": "627c058b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-error-stack-collection-627-3c2"
   },
   "/agents/node.js/installation-530": {
-    "__comp": "17896441",
-    "content": "4ae89270"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-installation-4-ae-8d0"
   },
   "/agents/node.js/installation-1-129": {
-    "__comp": "17896441",
-    "content": "cbf1c978"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-installation-1-cbf-da1"
   },
   "/agents/node.js/troubleshooting-f0d": {
-    "__comp": "17896441",
-    "content": "9dd74d31"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-node-js-troubleshooting-9-dd-3fe"
   },
   "/agents/python/-6cb": {
-    "__comp": "17896441",
-    "content": "e03261b1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-python-e-03-f29"
   },
   "/agents/python/data-redaction-d6d": {
-    "__comp": "17896441",
-    "content": "b6ee6a91"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-python-data-redactionb-6-e-0c7"
   },
   "/agents/python/error-stack-collection-aaa": {
-    "__comp": "17896441",
-    "content": "c24a3960"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-python-error-stack-collectionc-24-4aa"
   },
   "/agents/python/installation-e3e": {
-    "__comp": "17896441",
-    "content": "8a43ea6f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-python-installation-8-a-4-b70"
   },
   "/agents/python/installation-1-f25": {
-    "__comp": "17896441",
-    "content": "e0d6bef7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---agents-python-installation-1-e-0-d-3ab"
+  },
+  "/contributors-circle/-3bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contributors-circle-3-a-4-f8a"
   },
   "/installation/agents-ed4": {
-    "__comp": "17896441",
-    "content": "3f67c114"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-agents-3-f-6-dd8"
   },
   "/installation/get-api-key-and-token-67c": {
-    "__comp": "17896441",
-    "content": "39568e1b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-get-api-key-and-token-395-a60"
   },
   "/installation/quick-start-to-thundra-sidekick-014": {
-    "__comp": "17896441",
-    "content": "b9484568"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-quick-start-to-thundra-sidekickb-94-3c2"
   },
   "/installation/signup-with-thundra-sidekick-6d0": {
-    "__comp": "17896441",
-    "content": "01daecdd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-signup-with-thundra-sidekick-01-d-379"
   },
   "/integrations/cypress-plugin-for-e2e-tests-7ec": {
-    "__comp": "17896441",
-    "content": "84e92530"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-cypress-plugin-for-e-2-e-tests-84-e-634"
   },
   "/integrations/grafana-plugin-for-remote-controlling-sidekick-actions-d09": {
-    "__comp": "17896441",
-    "content": "b7227684"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-grafana-plugin-for-remote-controlling-sidekick-actionsb-72-199"
   },
   "/integrations/integrations-97f": {
-    "__comp": "17896441",
-    "content": "37956b72"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-379-e21"
   },
   "/integrations/integrations/coralogix-integration-34b": {
-    "__comp": "17896441",
-    "content": "a61fe47c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-coralogix-integrationa-61-ad3"
   },
   "/integrations/integrations/elasticsearch-integration-5bc": {
-    "__comp": "17896441",
-    "content": "8f513b46"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-elasticsearch-integration-8-f-5-fae"
   },
   "/integrations/integrations/logz.io-integration-5d5": {
-    "__comp": "17896441",
-    "content": "ceb35d3a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-logz-io-integrationceb-18b"
   },
   "/integrations/integrations/loki-integration-275": {
-    "__comp": "17896441",
-    "content": "925b1eac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-loki-integration-925-8d2"
   },
   "/integrations/integrations/new-relic-integration-42f": {
-    "__comp": "17896441",
-    "content": "a4fec318"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-new-relic-integrationa-4-f-953"
   },
   "/integrations/integrations/slack-integration-759": {
-    "__comp": "17896441",
-    "content": "f6cab1a1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-slack-integrationf-6-c-01d"
   },
   "/integrations/integrations/solarwinds-loggly-integration-54f": {
-    "__comp": "17896441",
-    "content": "703c30aa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-solarwinds-loggly-integration-703-e49"
   },
   "/integrations/integrations/sumo-logic-integration-261": {
-    "__comp": "17896441",
-    "content": "f04773a4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-sumo-logic-integrationf-04-8b3"
   },
   "/integrations/integrations/webhook-integration-4e5": {
-    "__comp": "17896441",
-    "content": "2ddbd71d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-integrations-webhook-integration-2-dd-f35"
   },
   "/integrations/node.js-client-08c": {
-    "__comp": "17896441",
-    "content": "9ed02f1d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-node-js-client-9-ed-0b3"
   },
   "/integrations/open-telemetry-tracing-integration-b35": {
-    "__comp": "17896441",
-    "content": "403255c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-open-telemetry-tracing-integration-403-60d"
   },
   "/integrations/rest-api-c7e": {
-    "__comp": "17896441",
-    "content": "297caa80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-rest-api-297-b88"
   },
   "/integrations/thundra-apm-tracing-integration-324": {
-    "__comp": "17896441",
-    "content": "541d9290"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---integrations-thundra-apm-tracing-integration-541-142"
   },
   "/master-e87": {
-    "__comp": "17896441",
-    "content": "0171840d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---master-017-62c"
   },
   "/open-source/agent-settings-c29": {
-    "__comp": "17896441",
-    "content": "fa57121f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---open-source-agent-settingsfa-5-c17"
   },
   "/open-source/client-settings-131": {
-    "__comp": "17896441",
-    "content": "a873af63"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---open-source-client-settingsa-87-53d"
   },
   "/open-source/quick-start-a78": {
-    "__comp": "17896441",
-    "content": "bd393734"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---open-source-quick-startbd-3-21a"
   },
   "/plugins/intellij-idea-plugin/-085": {
-    "__comp": "17896441",
-    "content": "d3c0cf12"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-d-3-c-776"
   },
   "/plugins/intellij-idea-plugin/common-errors-b58": {
-    "__comp": "17896441",
-    "content": "31eeb631"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-common-errors-31-e-078"
   },
   "/plugins/intellij-idea-plugin/getting-started-585": {
-    "__comp": "17896441",
-    "content": "89e9541b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-getting-started-89-e-6ec"
   },
   "/plugins/intellij-idea-plugin/login-4a7": {
-    "__comp": "17896441",
-    "content": "f8b98247"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-loginf-8-b-d66"
   },
   "/plugins/intellij-idea-plugin/self-hosted-settings-dd4": {
-    "__comp": "17896441",
-    "content": "b933489a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-self-hosted-settingsb-93-274"
   },
   "/plugins/intellij-idea-plugin/tracepoint-events/-309": {
-    "__comp": "17896441",
-    "content": "8b87c2dc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoint-events-8-b-8-f55"
   },
   "/plugins/intellij-idea-plugin/tracepoint-events/tracepoint-event-detail-f23": {
-    "__comp": "17896441",
-    "content": "660969d9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoint-events-tracepoint-event-detail-660-44a"
   },
   "/plugins/intellij-idea-plugin/tracepoints/-c00": {
-    "__comp": "17896441",
-    "content": "d62e6748"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-d-62-5ca"
   },
   "/plugins/intellij-idea-plugin/tracepoints/conditional-tracepoints-c16": {
-    "__comp": "17896441",
-    "content": "48e2464c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-conditional-tracepoints-48-e-50f"
   },
   "/plugins/intellij-idea-plugin/tracepoints/distributed-tracing-integration-3a2": {
-    "__comp": "17896441",
-    "content": "a26d9684"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-distributed-tracing-integrationa-26-a87"
   },
   "/plugins/intellij-idea-plugin/tracepoints/edit-tracepoint-28a": {
-    "__comp": "17896441",
-    "content": "e6c13c9f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-edit-tracepointe-6-c-79c"
   },
   "/plugins/intellij-idea-plugin/tracepoints/enable-disable-tracepoint-031": {
-    "__comp": "17896441",
-    "content": "04c0234f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-enable-disable-tracepoint-04-c-97d"
   },
   "/plugins/intellij-idea-plugin/tracepoints/expiration-settings-728": {
-    "__comp": "17896441",
-    "content": "60981aa9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-expiration-settings-609-018"
   },
   "/plugins/intellij-idea-plugin/tracepoints/remove-tracepoint-8be": {
-    "__comp": "17896441",
-    "content": "d1e37bc7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-remove-tracepointd-1-e-8a3"
   },
   "/plugins/intellij-idea-plugin/tracepoints/set-tracepoint-9b0": {
-    "__comp": "17896441",
-    "content": "e32af6c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-intellij-idea-plugin-tracepoints-set-tracepointe-32-19a"
   },
   "/plugins/pycharm-plugin-python-5f2": {
-    "__comp": "17896441",
-    "content": "0a1683bc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-pycharm-plugin-python-0-a-1-ed0"
   },
   "/plugins/sidekick-web-ide/how-to/-e97": {
-    "__comp": "17896441",
-    "content": "e7ade0da"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-e-7-a-b97"
   },
   "/plugins/sidekick-web-ide/how-to/enable-disable-collaborative-debugging-466": {
-    "__comp": "17896441",
-    "content": "299b59d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-enable-disable-collaborative-debugging-299-11d"
   },
   "/plugins/sidekick-web-ide/how-to/import-source-code-25b": {
-    "__comp": "17896441",
-    "content": "7769d649"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-import-source-code-776-81f"
   },
   "/plugins/sidekick-web-ide/how-to/remote-config-9a2": {
-    "__comp": "17896441",
-    "content": "591ac0ed"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-remote-config-591-a94"
   },
   "/plugins/sidekick-web-ide/how-to/set-tracepoints-192": {
-    "__comp": "17896441",
-    "content": "37e8c7a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-set-tracepoints-37-e-510"
   },
   "/plugins/sidekick-web-ide/how-to/take-snapshots-aka-tracepoint-events-26a": {
-    "__comp": "17896441",
-    "content": "1c289151"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-take-snapshots-aka-tracepoint-events-1-c-2-156"
   },
   "/plugins/sidekick-web-ide/how-to/use-tracemap-for-debugging-fd8": {
-    "__comp": "17896441",
-    "content": "cf13ef97"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-how-to-use-tracemap-for-debuggingcf-1-cab"
   },
   "/plugins/sidekick-web-ide/introduction/apps-and-tracepoints-panel-04c": {
-    "__comp": "17896441",
-    "content": "af64573d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-introduction-apps-and-tracepoints-panelaf-6-391"
   },
   "/plugins/sidekick-web-ide/introduction/code-panel-ef9": {
-    "__comp": "17896441",
-    "content": "c04e9b13"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-introduction-code-panelc-04-d73"
   },
   "/plugins/sidekick-web-ide/introduction/events-panel-e35": {
-    "__comp": "17896441",
-    "content": "d2b083b8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-introduction-events-paneld-2-b-07f"
   },
   "/plugins/sidekick-web-ide/introduction/source-panel-86e": {
-    "__comp": "17896441",
-    "content": "468935c9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-introduction-source-panel-468-6c3"
   },
   "/plugins/sidekick-web-ide/quick-start-todo-app-768": {
-    "__comp": "17896441",
-    "content": "e19fd4ee"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-sidekick-web-ide-quick-start-todo-appe-19-9e2"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/-b0e": {
-    "__comp": "17896441",
-    "content": "094e0c9f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-094-265"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/browsing-tracepoint-events-d83": {
-    "__comp": "17896441",
-    "content": "a0f516cf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-browsing-tracepoint-eventsa-0-f-126"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/common-problems-a22": {
-    "__comp": "17896441",
-    "content": "fdfb397a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-common-problemsfdf-dea"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/login-and-on-boarding-69e": {
-    "__comp": "17896441",
-    "content": "72a0f962"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-login-and-on-boarding-72-a-747"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/select-workspace-and-application-587": {
-    "__comp": "17896441",
-    "content": "42de0e45"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-select-workspace-and-application-42-d-2d3"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/self-hosted-settings-bce": {
-    "__comp": "17896441",
-    "content": "27ae5e63"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-self-hosted-settings-27-a-309"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/set-up-vscode-extension-964": {
-    "__comp": "17896441",
-    "content": "f38a6f8c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-set-up-vscode-extensionf-38-b9e"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/-a95": {
-    "__comp": "17896441",
-    "content": "6bfdc312"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-6-bf-cd4"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/conditional-tracepoints-921": {
-    "__comp": "17896441",
-    "content": "019256fc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-conditional-tracepoints-019-9ba"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/edit-tracepoint-322": {
-    "__comp": "17896441",
-    "content": "ff0d76dc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-edit-tracepointff-0-7f1"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/enable-disable-tracepoint-130": {
-    "__comp": "17896441",
-    "content": "67f9393b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-enable-disable-tracepoint-67-f-fad"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/expiration-settings-16d": {
-    "__comp": "17896441",
-    "content": "bc9af71d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-expiration-settingsbc-9-2f6"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/remove-tracepoint-c24": {
-    "__comp": "17896441",
-    "content": "798fb0d3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-remove-tracepoint-798-3cc"
   },
   "/plugins/visual-studio-code-extension-python-and-node.js/tracepoints-and-logpoints/set-tracepoint-fcb": {
-    "__comp": "17896441",
-    "content": "c06ff3e1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-visual-studio-code-extension-python-and-node-js-tracepoints-and-logpoints-set-tracepointc-06-2d7"
   },
   "/plugins/webstorm-plugin-node.js-9cb": {
-    "__comp": "17896441",
-    "content": "a1b72550"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plugins-webstorm-plugin-node-jsa-1-b-d76"
   },
   "/reference/conditional-tracepoints-e37": {
-    "__comp": "17896441",
-    "content": "73e07290"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-conditional-tracepoints-73-e-41e"
   },
   "/reference/faq-881": {
-    "__comp": "17896441",
-    "content": "65608a03"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-faq-656-c75"
   },
   "/reference/logpoint-expressions-9f6": {
-    "__comp": "17896441",
-    "content": "abd0732a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-logpoint-expressionsabd-fd8"
   },
   "/sidekick-actions/error-stack-collection-115": {
-    "__comp": "17896441",
-    "content": "4396e74b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sidekick-actions-error-stack-collection-439-ddd"
   },
   "/sidekick-actions/logpoint-3f3": {
-    "__comp": "17896441",
-    "content": "d6c094a1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sidekick-actions-logpointd-6-c-78e"
   },
   "/sidekick-actions/reference-events-and-probe-tags-345": {
-    "__comp": "17896441",
-    "content": "1eb6a2ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sidekick-actions-reference-events-and-probe-tags-1-eb-fa9"
   },
   "/sidekick-actions/tracepoint-6e5": {
-    "__comp": "17896441",
-    "content": "7718603a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sidekick-actions-tracepoint-771-55a"
   },
   "/use-cases-df2": {
-    "__comp": "17896441",
-    "content": "36a67303"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-36-a-4f5"
   },
   "/use-cases/conditional-stack-and-log-collection-333": {
-    "__comp": "17896441",
-    "content": "328c8e1a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-conditional-stack-and-log-collection-328-a33"
   },
   "/use-cases/cut-monitoring-costs-with-dynamic-logging-463": {
-    "__comp": "17896441",
-    "content": "846d49bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-cut-monitoring-costs-with-dynamic-logging-846-44f"
   },
   "/use-cases/developer-on-boarding-d91": {
-    "__comp": "17896441",
-    "content": "bcd24cc6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-developer-on-boardingbcd-4bd"
   },
   "/use-cases/dynamic-logging-975": {
-    "__comp": "17896441",
-    "content": "6e72dda4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-dynamic-logging-6-e-7-62a"
   },
   "/use-cases/error-stack-collection-and-stack-based-backend-tests-in-e2e-tests-235": {
-    "__comp": "17896441",
-    "content": "7824b692"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-error-stack-collection-and-stack-based-backend-tests-in-e-2-e-tests-782-b5e"
   },
   "/use-cases/identifying-stack-changes-and-stack-comparison-f1e": {
-    "__comp": "17896441",
-    "content": "e594457a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-identifying-stack-changes-and-stack-comparisone-59-b43"
   },
   "/use-cases/pinpointing-causes-of-errors-4e9": {
-    "__comp": "17896441",
-    "content": "97b69e5a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-pinpointing-causes-of-errors-97-b-f2e"
   },
   "/use-cases/production-debugging-56b": {
-    "__comp": "17896441",
-    "content": "21a95c30"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-production-debugging-21-a-2a5"
   },
   "/use-cases/remote-debugging-kubernetes-cluster-pods-and-containers-03b": {
-    "__comp": "17896441",
-    "content": "849667f3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-remote-debugging-kubernetes-cluster-pods-and-containers-849-560"
   },
   "/use-cases/using-trace-data-to-find-root-cause-of-an-error-523": {
-    "__comp": "17896441",
-    "content": "6d6b8a15"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-using-trace-data-to-find-root-cause-of-an-error-6-d-6-502"
   },
   "/web-application/introduction-887": {
-    "__comp": "17896441",
-    "content": "68dd53b4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-application-introduction-68-d-884"
   }
 }

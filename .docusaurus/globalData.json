@@ -86,6 +86,11 @@
               "sidebar": "sidebar"
             },
             {
+              "id": "contributors-circle/README",
+              "path": "/contributors-circle/",
+              "sidebar": "sidebar"
+            },
+            {
               "id": "installation/get-api-key-and-token",
               "path": "/installation/get-api-key-and-token",
               "sidebar": "sidebar"

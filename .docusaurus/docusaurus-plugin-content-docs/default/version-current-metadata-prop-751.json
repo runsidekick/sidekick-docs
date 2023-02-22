@@ -685,6 +685,12 @@
         ]
       },
       {
+        "type": "link",
+        "label": "Contributors' Circle",
+        "href": "/contributors-circle/",
+        "docId": "contributors-circle/README"
+      },
+      {
         "type": "category",
         "label": "References",
         "collapsible": true,
@@ -801,6 +807,12 @@
       "id": "agents/README",
       "title": "Sidekick Agents",
       "description": "Sidekick provides agents for Java, Python, and NodeJS runtimes. You can find them below:",
+      "sidebar": "sidebar"
+    },
+    "contributors-circle/README": {
+      "id": "contributors-circle/README",
+      "title": "Contributors' Circle",
+      "description": "Stargazers repo roster for @runsidekick/sidekick",
       "sidebar": "sidebar"
     },
     "installation/get-api-key-and-token": {

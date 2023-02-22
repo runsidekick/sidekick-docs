@@ -58,7 +58,7 @@
               "sidebar": "sidebar",
               "previous": {
                 "title": "Sidekick Agents",
-                "permalink": "/agents/"
+                "permalink": "/installation/agents"
               },
               "next": {
                 "title": "Installation",
@@ -350,12 +350,17 @@
               "description": "Sidekick provides agents for Java, Python, and NodeJS runtimes. You can find them below:",
               "source": "@site/docs/agents/README.mdx",
               "sourceDirName": "agents",
-              "slug": "/agents/",
-              "permalink": "/agents/",
+              "slug": "/installation/agents",
+              "permalink": "/installation/agents",
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Sidekick Agents",
+                "sidebar_position": 5,
+                "slug": "/installation/agents"
+              },
               "sidebar": "sidebar",
               "previous": {
                 "title": "💾 Reference Events & Probe Tags",
@@ -364,6 +369,29 @@
               "next": {
                 "title": "☕ Java",
                 "permalink": "/agents/java/"
+              }
+            },
+            {
+              "unversionedId": "contributors-circle/README",
+              "id": "contributors-circle/README",
+              "title": "Contributors' Circle",
+              "description": "Stargazers repo roster for @runsidekick/sidekick",
+              "source": "@site/docs/contributors-circle/README.md",
+              "sourceDirName": "contributors-circle",
+              "slug": "/contributors-circle/",
+              "permalink": "/contributors-circle/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "🔌 Thundra APM Tracing Integration",
+                "permalink": "/integrations/thundra-apm-tracing-integration"
+              },
+              "next": {
+                "title": "Conditional Expressions",
+                "permalink": "/reference/conditional-tracepoints"
               }
             },
             {
@@ -783,8 +811,8 @@
                 "permalink": "/integrations/rest-api"
               },
               "next": {
-                "title": "Conditional Expressions",
-                "permalink": "/reference/conditional-tracepoints"
+                "title": "Contributors' Circle",
+                "permalink": "/contributors-circle/"
               }
             },
             {
@@ -1982,8 +2010,8 @@
               "frontMatter": {},
               "sidebar": "sidebar",
               "previous": {
-                "title": "🔌 Thundra APM Tracing Integration",
-                "permalink": "/integrations/thundra-apm-tracing-integration"
+                "title": "Contributors' Circle",
+                "permalink": "/contributors-circle/"
               },
               "next": {
                 "title": "⁉ FAQ",
@@ -2113,7 +2141,7 @@
               },
               "next": {
                 "title": "Sidekick Agents",
-                "permalink": "/agents/"
+                "permalink": "/installation/agents"
               }
             },
             {
@@ -3004,6 +3032,11 @@
                 ]
               },
               {
+                "type": "doc",
+                "label": "Contributors' Circle",
+                "id": "contributors-circle/README"
+              },
+              {
                 "type": "category",
                 "label": "References",
                 "collapsible": true,
@@ -3056,8 +3089,6 @@
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
   "docusaurus-tailwindcss": {},
-  "add-heap": {},
-  "add-optimize": {},
   "add-gtm": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}

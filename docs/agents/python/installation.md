@@ -7,9 +7,9 @@ Follow the below steps to install Sidekick Agent Python to your application.
 
 ## Configure Sidekick
 
-{% hint style="info" %}
+:::info
 In order to configure the agent, you'll need an API key which is gotten from Sidekick web site. You can see your API key at the center of screen.
-{% endhint %}
+:::
 
 ### Configure by Environment Variables
 
@@ -49,9 +49,9 @@ except ImportError as e:
 
 #### Configure by .env File:
 
-{% hint style="info" %}
+:::info
 To install environment variables from the configuration file, you should install `pathlib` and `python-dotenv` first.
-{% endhint %}
+:::
 
 ```python
 from pathlib import Path

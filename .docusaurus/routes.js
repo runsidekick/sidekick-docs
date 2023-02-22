@@ -3,13 +3,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'b24'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '08b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'b57'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '9e2'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'c81'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '670'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '8f5'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '4e3'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'bab'),
+    component: ComponentCreator('/', '417'),
     routes: [
       {
         path: '/',
@@ -98,6 +133,12 @@ export default [
       {
         path: '/agents/python/installation-1',
         component: ComponentCreator('/agents/python/installation-1', 'f25'),
+        exact: true,
+        sidebar: "sidebar"
+      },
+      {
+        path: '/contributors-circle/',
+        component: ComponentCreator('/contributors-circle/', '3bc'),
         exact: true,
         sidebar: "sidebar"
       },
