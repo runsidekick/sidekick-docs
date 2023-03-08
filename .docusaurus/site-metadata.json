@@ -32,6 +32,11 @@
     },
     "add-gtm": {
       "type": "project"
+    },
+    "@cmfcmf/docusaurus-search-local": {
+      "type": "package",
+      "name": "@cmfcmf/docusaurus-search-local",
+      "version": "0.11.0"
     }
   }
 }

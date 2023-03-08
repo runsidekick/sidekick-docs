@@ -153,7 +153,7 @@
                 "docId": "agents/java/source-bundling"
               }
             ],
-            "href": "/agents/java/"
+            "href": "/agents/java"
           },
           {
             "type": "category",
@@ -686,7 +686,7 @@
       },
       {
         "type": "link",
-        "label": "Contributors' Circle",
+        "label": "Contributors Circle",
         "href": "/contributors-circle/",
         "docId": "contributors-circle/README"
       },
@@ -811,8 +811,8 @@
     },
     "contributors-circle/README": {
       "id": "contributors-circle/README",
-      "title": "Contributors' Circle",
-      "description": "Stargazers repo roster for @runsidekick/sidekick",
+      "title": "Contributors Circle (in progress)",
+      "description": "projects list (in progress)",
       "sidebar": "sidebar"
     },
     "installation/get-api-key-and-token": {

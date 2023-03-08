@@ -1,4 +1,6 @@
 ---
+slug: /agents/java
+
 description: >-
   This topic describes how to prepare the application environment and install
   the Sidekick Java Agent

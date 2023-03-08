@@ -1,4 +1,14 @@
 {
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/",
@@ -17,7 +27,7 @@
             },
             {
               "id": "agents/java/README",
-              "path": "/agents/java/",
+              "path": "/agents/java",
               "sidebar": "sidebar"
             },
             {

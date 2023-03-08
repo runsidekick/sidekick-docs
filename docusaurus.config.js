@@ -63,6 +63,11 @@ const config = {
             className: 'navbar-get-started',
           },
           {
+            href: 'https://docs.runsidekick.com/contributors-circle/',
+            label: 'Contributors Circle',
+            position: 'left',
+          },
+          {
             href: 'https://runsidekick.com/pricing',
             label: 'Pricing',
             position: 'left',
@@ -88,6 +93,7 @@ const config = {
     plugins: [
        './plugins/tailwind-config.js',
        './plugins/gtm.js',
+       require.resolve("@cmfcmf/docusaurus-search-local")
      ], 
     
 };

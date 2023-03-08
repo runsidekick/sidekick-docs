@@ -33,7 +33,7 @@
               "sidebar": "sidebar",
               "previous": {
                 "title": "☕ Java",
-                "permalink": "/agents/java/"
+                "permalink": "/agents/java"
               },
               "next": {
                 "title": "Source Bundling",
@@ -47,12 +47,13 @@
               "description": "This topic describes how to prepare the application environment and install the Sidekick Java Agent",
               "source": "@site/docs/agents/java/README.md",
               "sourceDirName": "agents/java",
-              "slug": "/agents/java/",
-              "permalink": "/agents/java/",
+              "slug": "/agents/java",
+              "permalink": "/agents/java",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
+                "slug": "/agents/java",
                 "description": "This topic describes how to prepare the application environment and install the Sidekick Java Agent"
               },
               "sidebar": "sidebar",
@@ -368,14 +369,14 @@
               },
               "next": {
                 "title": "☕ Java",
-                "permalink": "/agents/java/"
+                "permalink": "/agents/java"
               }
             },
             {
               "unversionedId": "contributors-circle/README",
               "id": "contributors-circle/README",
-              "title": "Contributors' Circle",
-              "description": "Stargazers repo roster for @runsidekick/sidekick",
+              "title": "Contributors Circle (in progress)",
+              "description": "projects list (in progress)",
               "source": "@site/docs/contributors-circle/README.md",
               "sourceDirName": "contributors-circle",
               "slug": "/contributors-circle/",
@@ -811,7 +812,7 @@
                 "permalink": "/integrations/rest-api"
               },
               "next": {
-                "title": "Contributors' Circle",
+                "title": "Contributors Circle (in progress)",
                 "permalink": "/contributors-circle/"
               }
             },
@@ -2010,7 +2011,7 @@
               "frontMatter": {},
               "sidebar": "sidebar",
               "previous": {
-                "title": "Contributors' Circle",
+                "title": "Contributors Circle (in progress)",
                 "permalink": "/contributors-circle/"
               },
               "next": {
@@ -3033,7 +3034,7 @@
               },
               {
                 "type": "doc",
-                "label": "Contributors' Circle",
+                "label": "Contributors Circle",
                 "id": "contributors-circle/README"
               },
               {
@@ -3090,6 +3091,7 @@
   "docusaurus-theme-classic": {},
   "docusaurus-tailwindcss": {},
   "add-gtm": {},
+  "@cmfcmf/docusaurus-search-local": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }
